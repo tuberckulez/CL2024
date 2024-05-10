@@ -1,6 +1,6 @@
 1. Поднять контейнер: `docker compose up -d --build`
 2. В PowerShell: `docker exec -it ubuntu bash`
-3. `chmod +x /home/user/lab1_files/setup_script.sh && /home/user/lab1_files/setup_script.sh`
+3. `chmod +x /home/user/lab1_files/setup_script.sh && /home/user/lab1_files/install.sh`
 4. `cd /home/user/lab1_files/src`
 5. `source ../env/bin/activate`
 5. `python3 server.py`

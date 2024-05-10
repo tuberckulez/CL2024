@@ -18,7 +18,6 @@ pip3 install fastapi
 pip3 install uvicorn
 pip3 install python-multipart
 pip3 install requests
-pip3 install python-dotenv
 mkdir data && cd data
 wget https://github.com/sberdevices/golos/raw/master/examples/data/001ce26c07c20eaa0d666b824c6c6924.wav
 cd ../ && mkdir models && cd models
